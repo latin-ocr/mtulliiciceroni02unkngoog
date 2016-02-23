@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtulliiciceroni02unkngoog_0292.png"; bbox 0 0 1700 3084; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 371 163 1409 236">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 371 163 1409 236">
+     <span class='ocr_line' id='line_1_1' title="bbox 371 163 1409 236; baseline -0.015 -2"><span class='ocrx_word' id='word_1_1' title='bbox 371 163 495 236; x_wconf 66' lang='lat'>599</span> <span class='ocrx_word' id='word_1_2' title='bbox 611 173 784 224; x_wconf 62' lang='lat' dir='ltr'><strong>ans-r.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 809 172 889 218; x_wconf 65' lang='lat' dir='ltr'>An</span> <span class='ocrx_word' id='word_1_4' title='bbox 912 174 1105 220; x_wconf 41' lang='lat' dir='ltr'>Arne*</span> <span class='ocrx_word' id='word_1_5' title='bbox 1130 173 1240 218; x_wconf 79' lang='lat' dir='ltr'>m.</span> <span class='ocrx_word' id='word_1_6' title='bbox 1268 173 1409 220; x_wconf 74' lang='lat' dir='ltr'>xm.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 371 255 1575 598">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 371 255 1575 598">
+     <span class='ocr_line' id='line_1_2' title="bbox 373 255 1575 324; baseline 0 -4"><span class='ocrx_word' id='word_1_7' title='bbox 373 257 569 320; x_wconf 82' lang='lat' dir='ltr'>deinde</span> <span class='ocrx_word' id='word_1_8' title='bbox 601 260 660 318; x_wconf 85' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_9' title='bbox 677 255 1093 324; x_wconf 80' lang='lat' dir='ltr'><strong>Tusculanum..</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1122 258 1452 322; x_wconf 77' lang='lat' dir='ltr'><strong>Dolabellae</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1479 256 1575 320; x_wconf 73' lang='lat' dir='ltr'>vi}-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 371 345 1571 425; baseline -0.003 -19"><span class='ocrx_word' id='word_1_12' title='bbox 371 345 482 406; x_wconf 74' lang='lat' dir='ltr'>hm</span> <span class='ocrx_word' id='word_1_13' title='bbox 515 347 996 425; x_wconf 67' lang='lat' dir='ltr'>wmpraeteriret5</span> <span class='ocrx_word' id='word_1_14' title='bbox 1009 348 1198 408; x_wconf 67' lang='lat' dir='ltr'>omnis</span> <span class='ocrx_word' id='word_1_15' title='bbox 1232 361 1571 408; x_wconf 79' lang='lat' dir='ltr'>armatorum</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 373 425 1571 514; baseline -0.002 -22"><span class='ocrx_word' id='word_1_16' title='bbox 373 433 556 510; x_wconf 82' lang='lat' dir='ltr'>copia,</span> <span class='ocrx_word' id='word_1_17' title='bbox 572 430 769 492; x_wconf 76' lang='lat' dir='ltr'>dextro</span> <span class='ocrx_word' id='word_1_18' title='bbox 783 428 1076 492; x_wconf 80' lang='lat' dir='ltr'>finistra·ad</span> <span class='ocrx_word' id='word_1_19' title='bbox 1090 431 1351 514; x_wconf 66' lang='lat' dir='ltr'>aequum}</span> <span class='ocrx_word' id='word_1_20' title='bbox 1366 452 1481 494; x_wconf 68' lang='lat' dir='ltr'>naec</span> <span class='ocrx_word' id='word_1_21' title='bbox 1490 425 1571 490; x_wconf 80' lang='lat' dir='ltr'>uf-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 373 516 1169 598; baseline 0.004 -21"><span class='ocrx_word' id='word_1_22' title='bbox 373 535 542 598; x_wconf 61' lang='grc' dir='ltr'>«μω</span> <span class='ocrx_word' id='word_1_23' title='bbox 567 516 731 586; x_wconf 82' lang='lat' dir='ltr'><strong>alibi..</strong></span> <span class='ocrx_word' id='word_1_24' title='bbox 759 518 1169 592; x_wconf 69' lang='lat' dir='ltr'><strong>hocexNicia.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
